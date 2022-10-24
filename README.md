@@ -3,4 +3,4 @@ Hello Code Lover :) in this project I made a card pagination to reduce the numbe
 
 Nice to meet you :)
 
-<img scr="img/fond.png">
+<img scr="https://github.com/MrRyanWise/WorkingPagination/blob/main/img/fond.png?raw=true">
